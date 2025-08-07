@@ -1,10 +1,8 @@
-# 📈 Stock Pattern Analyzer & Anomaly Detector
+Stock Pattern Analyzer & Anomaly Detector
 
 A hybrid project using **C++ + Python** to detect anomalies in stock price data and visualize patterns.
 
----
-
-## 🔧 Features
+Features
 
 - Fetch stock data (CSV)
 - Calculate moving average (C++)
@@ -15,5 +13,5 @@ A hybrid project using **C++ + Python** to detect anomalies in stock price data 
 
 ---
 
-## 📁 Project Structure
+Project Structure
 
